@@ -11,3 +11,7 @@ run in XAMPP environment
 ![alt text](https://github.com/8tim8/screenshots/blob/master/ims_login.JPG "login")
 
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/New_prod.JPG)
+
+![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_supplier.JPG)
+
+![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_customer.JPG)
