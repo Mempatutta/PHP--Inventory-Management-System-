@@ -10,7 +10,7 @@ run in XAMPP environment
 
 ![alt text](https://github.com/8tim8/screenshots/blob/master/ims_login.JPG "login")
 Admin:
-![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_admin.JPG)
+![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_admin.jpg)
 Supplier:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_supplier.JPG)
 Customer:
