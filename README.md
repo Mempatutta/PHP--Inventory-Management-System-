@@ -8,4 +8,4 @@ Designed for both desktop, and mobile users.
 Has security features against SQL injection attacks.
 Coded in concise style.
 
-![alt text](screenshots/Sub.png "login")
+![alt text](https://github.com/8tim8/screenshots/blob/master/Sub.png "login")
