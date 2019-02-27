@@ -15,7 +15,7 @@ Supplier:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_supplier.JPG)
 Customer:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_customer.JPG)
-Use Case Diagram:
-![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/Use%20case%20diagram.jpg)
-Subsystem Decomposition Diagram:
+Use Case Diagram: <br />
+![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/Use%20case%20diagram.jpg) <br />
+Subsystem Decomposition Diagram: <br />
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/Subsystem%20Decomposition%20Diagram.png)
