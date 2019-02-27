@@ -7,3 +7,5 @@ Designed for both desktop, and mobile users.
 3 types of users: admin, supplier, customer. 
 Has security features against SQL injection attacks.
 Coded in concise style.
+
+![alt text](screenshots/filename.png "Description goes here")
