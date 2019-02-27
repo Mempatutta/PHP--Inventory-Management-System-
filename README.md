@@ -8,7 +8,7 @@ run in XAMPP environment
 • Has security features against SQL injection attacks. <br />
 • Coded in concise style. <br />
 
-![alt text](https://github.com/8tim8/screenshots/blob/master/ims_login.JPG "login")
+![alt text](https://github.com/8tim8/screenshots/blob/master/ims_login.JPG "login") <br />
 Admin:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_admin.jpg)
 Supplier:
