@@ -9,9 +9,9 @@ run in XAMPP environment
 • Coded in concise style. <br />
 
 ![alt text](https://github.com/8tim8/screenshots/blob/master/ims_login.JPG "login")
-
-![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/New_prod.JPG)
-
+Admin:
+![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_admin.JPG)
+Supplier:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_supplier.JPG)
-
+Customer:
 ![alt text](https://github.com/8tim8/PHP--Inventory-Management-System-/blob/master/ims_customer.JPG)
