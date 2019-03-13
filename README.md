@@ -2,7 +2,7 @@
 Inventory Management System (with heavy emphasis on security) 
 run in XAMPP environment
 
-• Program written in HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap (front-end), PHP (back-end), MySQL (database). <br />
+• Program written in HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap (front-end), PHP (back-end), MySQLi, MariaDB (database). <br />
 • Designed for both desktop, and mobile users. <br />
 • 3 types of users: admin, supplier, customer. <br />
 • Has security features against SQL injection attacks. <br />
